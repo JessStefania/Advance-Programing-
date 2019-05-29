@@ -1,0 +1,74 @@
+\begin{equation*}
+\left(
+\begin{array}{cccc}
+3 & 2 & -3  & 1 \\
+2 & 3 & -1 & 2 \\
+-1 & -4 & 1 & 1 \\
+4 & -3 & 2 & -3
+\end{array}
+\right)_{F_1\leftrightarrow F_4}
+\left(
+\begin{array}{cccc}
+4 & -3 & 2 & -3\\
+2 & 3 & -1 & 2 \\
+-1 & -4 & 1 & 1 \\
+3 & 2 & -3  & 1 \\
+\end{array}
+\right)_{
+\begin{array}{cc}
+F_2-\frac{2}{4}F_1\\
+F_3+\frac{1}{4}F_1\\
+F_4-\frac{3}{4}F_1
+\end{array}
+}
+\left(
+\begin{array}{cccc}
+4 & -3 & 2 & -3\\
+0 & \frac{9}{2} & -2  & \frac{7}{2}\\
+0 & -\frac{19}{4} & \frac{3}{2} & \frac{1}{4} \\
+0 & \frac{17}{4} & -\frac{9}{2} & \frac{13}{4}\\
+\end{array}
+\right)_{F_2\leftrightarrow F_3}
+\end{equation*}
+\begin{equation*}
+\left(
+\begin{array}{cccc}
+4 & -3 & 2 & -3\\
+0 & -\frac{19}{4} & \frac{3}{2} & \frac{1}{4} \\
+0 & \frac{9}{2} & -2  & \frac{7}{2}\\
+0 & \frac{17}{4} & -\frac{9}{2} & \frac{13}{4}\\
+\end{array}
+\right)_{
+\begin{array}{cc}
+F_3+\frac{18}{19}F_2\\
+F_4+\frac{17}{19}F_2
+\end{array}
+}
+\left(
+\begin{array}{cccc}
+4 & -3 & 2 & -3\\
+0 & -\frac{19}{4} & \frac{3}{2} & \frac{1}{4} \\
+0 & 0 & -\frac{11}{19}  & \frac{71}{19}\\
+0 & 0 & -\frac{60}{19} & \frac{66}{19}\\
+\end{array}
+\right)_{F_4\leftrightarrow F_3}
+\left(
+\begin{array}{cccc}
+4 & -3 & 2 & -3\\
+0 & -\frac{19}{4} & \frac{3}{2} & \frac{1}{4} \\
+0 & 0 & -\frac{60}{19} & \frac{66}{19}\\
+0 & 0 & -\frac{11}{19}  & \frac{71}{19}\\
+\end{array}
+\right)_{F_4+\frac{11}{60}F_3}
+\end{equation*}
+\begin{equation*}
+\left(
+\begin{array}{cccc}
+4 & -3 & 2 & -3\\
+0 & -\frac{19}{4} & \frac{3}{2} & \frac{1}{4} \\
+0 & 0 & -\frac{60}{19} & \frac{66}{19}\\
+0 & 0 & 0  & \frac{31}{10}\\
+\end{array}
+\right)=U
+\end{equation*}
+\newpage
